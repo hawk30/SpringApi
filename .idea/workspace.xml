@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17304ea6-298b-4bc9-8b11-ebf730d8e4a8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/AngularjsSpringRestExample/WEB-INF/classes/main/weapp/service/CountryService.class" afterPath="$PROJECT_DIR$/target/AngularjsSpringRestExample/WEB-INF/classes/main/weapp/service/CountryService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/main/weapp/service/CountryService.class" afterPath="$PROJECT_DIR$/target/classes/main/weapp/service/CountryService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FirstAngularApp.iml" afterPath="$PROJECT_DIR$/FirstAngularApp.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/angularJSCrudExample.html" afterPath="$PROJECT_DIR$/src/main/webapp/angularJSCrudExample.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/AngularjsSpringRestExample/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/target/AngularjsSpringRestExample/META-INF/MANIFEST.MF" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/AngularjsSpringRestExample/WEB-INF/classes/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/target/AngularjsSpringRestExample/WEB-INF/classes/main/webapp/WEB-INF/web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/AngularjsSpringRestExample/WEB-INF/classes/main/webapp/angularJSCrudExample.html" afterPath="$PROJECT_DIR$/target/AngularjsSpringRestExample/WEB-INF/classes/main/webapp/angularJSCrudExample.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/AngularjsSpringRestExample/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/target/AngularjsSpringRestExample/WEB-INF/web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/AngularjsSpringRestExample/angularJSCrudExample.html" afterPath="$PROJECT_DIR$/target/AngularjsSpringRestExample/angularJSCrudExample.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/target/classes/main/webapp/WEB-INF/web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/main/webapp/angularJSCrudExample.html" afterPath="$PROJECT_DIR$/target/classes/main/webapp/angularJSCrudExample.html" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -1010,12 +996,12 @@
       <updated>1489308701290</updated>
       <workItem from="1489308705267" duration="12383000" />
       <workItem from="1489658759583" duration="2087000" />
-      <workItem from="1489673057857" duration="5030000" />
+      <workItem from="1489673057857" duration="5178000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19500000" />
+    <option name="totallyTimeSpent" value="19648000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
